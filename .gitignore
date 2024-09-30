@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AlicundeTechTest/bin/Debug/net8.0
+/AlicundeTechTest/obj
+/ESettOpenApiInterfaces/bin/Debug/net8.0
+/ESettOpenApiInterfaces/obj
+/ESettOpenApiService/bin/Debug/net8.0
+/ESettOpenApiService/obj
+/ESettRepositories/bin/Debug/net8.0
+/ESettRepositories/obj
+/ESettRepositoriesInterfaces/bin/Debug/net8.0
+/ESettRepositoriesInterfaces/obj
