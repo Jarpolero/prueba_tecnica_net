@@ -1,0 +1,6 @@
+@AlicundeTechTest_HostAddress = http://localhost:5041
+
+GET {{AlicundeTechTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
